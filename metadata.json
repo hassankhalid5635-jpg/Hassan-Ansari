@@ -1,0 +1,7 @@
+{
+  "name": "RAF | Relief Aid",
+  "description": "An elite global platform for childhood nutrition and verified field impact.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
